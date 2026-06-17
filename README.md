@@ -9,9 +9,8 @@
   </a>
 </div>
 
-Contact 
 <div>
-  <a href="mailto:joaomarcosavancini00@gmail.com target="blank"><img height="90em" src="[https://cdn.imgbin.com/5/8/5/gmail-google-logo-gmail-logo-icon-in-red-and-white-pnsWz3A5.jpg](https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail&logoSize=auto)"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-avancini-465923250/" target="blank"><img height="90em" src="[https://cdn.imgbin.com/4/13/0/linkedin-linkedin-logo-graphic-0E406xBS.jpg](https://img.shields.io/badge/LinkedIn-blue?style=flat&logoSize=auto)"></a>
+  <a href="mailto:joaomarcosavancini00@gmail.com target="blank"><img height="90em" src="https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail&logoSize=auto"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-avancini-465923250/" target="blank"><img height="90em" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logoSize=auto"></a>
 </div>
 
